@@ -33,6 +33,18 @@
             ]
         },
         {
+            "image" : "images/projects/soup.jpg",
+            "title": "Soup",
+            "bodyText": "- Création d'un jeu en équipe de 5 étudiants\n- Création du concept original\n- Travail sur les graphismes et les visuels (Shaders/modifications sur le pipeline de rendu)\n- Développement de fonctionnalités de gameplay et intégration d'assets",
+            "links": [
+            ],
+            "tags" : [
+                "Unity",
+                "Shader",
+                "Projet étudiant"
+            ]
+        },
+        {
             "image" : "images/projects/raytraceAO.png",
             "title": "Rendu de scène 3D",
             "bodyText": "- Rendu de scènes 3D pour mon master ID3D, en utilisant de la rasterisation et du ray tracing.\n- Lecture de fichiers gltf\n- Instanciation GPU\n- Compute shaders\n- Shadow mapping\n- Lancer de rayons avec méthode de Monte Carlo",
@@ -76,6 +88,21 @@
                 "C#",
                 "Unity",
                 "Projet étudiant"         
+            ]
+        },
+        {
+            "image" : "images/projects/Floward.png",
+            "title": "Floward - Scientific Game Jam 2021",
+            "bodyText": "Développement d'un jeu vidéo sur une thématique scientifique sur un weekend\n- participation au game desig\n- Développement de fonctionnalités de gameplay et intégration d'assets",
+            "links": [
+                {
+                    "text": "itch.io",
+                    "href": "https://akarius.itch.io/floward"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Unity"            
             ]
         },
         {
