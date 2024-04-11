@@ -2,32 +2,32 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "subtitle": "eCential Robotics",
+            "workType": "CDI",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Refonte du système de rendu OpenGL",
+                "Développement de nouvelles fonctionalités dans l'interface utilisateur"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "02/2024 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Stagiaire chercheur·euse",
+            "subtitle": "Laboratoire LIRIS",
+            "workType": "Stage",
             "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
+                "Modélisation d'arbres volumiques en 3D",
+                "Modification d'un système de croissance d'arbres procéduraux pour un rendu utilisant de surfaces implicites"            ],
+            "dateText": "02/2023 – 07/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Développeur·euse web",
+            "subtitle": "BeProject",
+            "workType": "CDI",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Développement et maintenance évolutive d'applications web",
+                "Stage, puis embauche en CDI de septembre 2019 à juillet 2020"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "05/2019 – 07/2020"
         }
     ]
 }

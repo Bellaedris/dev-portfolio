@@ -2,15 +2,19 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/arthurpradier/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/Bellaedris"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:contacterarthurpradier@gmail.com"
+        },
+        {
+            "network" : "itch.io",
+            "href": "https://bellaedris.itch.io/"
         }
     ]
 }

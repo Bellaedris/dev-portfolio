@@ -1,149 +1,93 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/vagues.jpg",
+            "title": "Simulation de vagues",
+            "bodyText": "- Génération de vagues en utilisant une somme de sinus et du FbM\n- Simulation temps réel quasi intégralement sur GPU\n- Simulation de vagues réalistes en utilisant une FFT (WIP)",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/Bellaedris/Tools"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Unity",
+                "C#",
+                "HLSL"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/sproutEngine.png",
+            "title": "SproutEngine",
+            "bodyText": "- Développement d'un moteur de rendu OpenGL\n- Shadowmapping, postprocessing\n- Portage d'un projet de génération de terrains sur le moteur\n- En cours de développement",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Bellaedris/SproutEngine"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "C++",
+                "OpenGL",
+                "GLSL"            
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/raytraceAO.png",
+            "title": "Rendu de scène 3D",
+            "bodyText": "- Rendu de scènes 3D pour mon master ID3D, en utilisant de la rasterisation et du ray tracing.\n- Lecture de fichiers gltf\n- Instanciation GPU\n- Compute shaders\n- Shadow mapping\n- Lancer de rayons avec méthode de Monte Carlo",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "C++",
+                "OpenGL",
+                "GLSL",
+                "Projet étudiant"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/terrain_erodé.png",
+            "title": "Générateur de terrains réalistes",
+            "bodyText": "- Génération de mondes virtuels à partir de bruit procédural\n- Export de données sur le terrain: pente, humidité, laplacien, etc\n- Érosion fluviale et tectonique (https://inria.hal.science/hal-01262376/document)\n- Placement procédural de villages sur le terrain\n- Génération de routes entre les villes",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/Bellaedris/terrain-generation"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "C++",
+                "OpenGL",
+                "GLSL",
+                "Projet étudiant"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "image" : "images/projects/Sand3D2.png",
+            "title": "Simulation de reliefs côtiers",
+            "bodyText": "- Génération de terrains sur Unity à partir de bruit procédural\n- Générations d'îlots\n- Simulation du développement organique de coraux à l'aide d'un algorithme de DLA\n- Dépôts de sables sur les côtes d'une île à l'aide de courants",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/Bellaedris/POM-2022"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "C#",
+                "Unity",
+                "Projet étudiant"         
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "image" : "images/projects/planetes.png",
+            "title": "Simulation de gravitation",
+            "bodyText": "- Simulation du phénomène de gravitation en implémentant la loi de Newton\n- Génération procédurale d'astéroïdes à partir d'une icosphère subdivisée et de bruit procédural \n- Création d'une UI pour permettre à une amie de créer et des planètes paramétrables, visualiser leurs déplacements puis de simuler leurs trajectoires",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
+                
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "C#",
+                "Unity"
             ]
         }
     ]

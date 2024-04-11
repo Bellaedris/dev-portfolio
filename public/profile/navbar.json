@@ -1,37 +1,37 @@
 {
     "logo" : {
         "source": "images/logo.png",
-        "height" : 45,
+        "height" : 50,
         "width" : 50
     },
     "sections": [
         {
-            "title": "Home",
+            "title": "Accueil",
             "href": "/"
         },
         {
-            "title": "About",
+            "title": "Moi",
             "href": "/about"
         },
         {
-            "title": "Skills",
+            "title": "Compétences",
             "href": "/skills"
         },
         {
-            "title": "Education",
+            "title": "Études",
             "href": "/education"
         },
         {
-            "title": "Experience",
+            "title": "Expérience",
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "title": "Projets",
             "href": "/projects"
         },
         {
-            "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "title": "CV",
+            "href": "https://www.linkedin.com/in/arthurpradier/overlay/1712857949379/single-media-viewer/?profileId=ACoAACLryoEBaHd7DPcT5jlYjeyVb__EOJ9DY-0",
             "type": "link"
         }
     ]

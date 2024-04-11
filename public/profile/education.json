@@ -1,19 +1,40 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "2021-2023",
+            "cardTitle": "Master informatique",
+            "cardSubtitle":"Université Claude Bernard Lyon 1",
+            "cardDetailedText": "Spécialité Image Développement et Technologie 3D (ID3D)",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/UCBL.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "2020-2021",
+            "cardTitle": "L3 informatique",
+            "cardSubtitle":"Université Claude Bernard Lyon 1",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/UCBL.png"
+            }
+        },
+        {
+            "title": "2020-2021",
+            "cardTitle": "Licence Professionelle Métiers du Numérique",
+            "cardSubtitle":"IUT de Bayonne et du Pays Basque",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/IUTBPB.jpg"
+            }
+        },
+        {
+            "title": "2016-2018",
+            "cardTitle": "DUT Informatique",
+            "cardSubtitle":"IUT de Rodez",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/UTC.jpg"
+            }
         }
     ]
 }
