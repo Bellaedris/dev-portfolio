@@ -93,7 +93,7 @@
         {
             "image" : "images/projects/Floward.png",
             "title": "Floward - Scientific Game Jam 2021",
-            "bodyText": "Développement d'un jeu vidéo sur une thématique scientifique sur un weekend\n- participation au game desig\n- Développement de fonctionnalités de gameplay et intégration d'assets",
+            "bodyText": "Développement d'un jeu vidéo sur une thématique scientifique sur un weekend\n- participation au game design\n- Développement de fonctionnalités de gameplay et intégration d'assets",
             "links": [
                 {
                     "text": "itch.io",
@@ -108,7 +108,7 @@
         {
             "image" : "images/projects/planetes.png",
             "title": "Simulation de gravitation",
-            "bodyText": "- Simulation du phénomène de gravitation en implémentant la loi de Newton\n- Génération procédurale d'astéroïdes à partir d'une icosphère subdivisée et de bruit procédural \n- Création d'une UI pour permettre à une amie de créer et des planètes paramétrables, visualiser leurs déplacements puis de simuler leurs trajectoires",
+            "bodyText": "- Simulation du phénomène de gravitation en implémentant la loi de Newton\n- Génération procédurale d'astéroïdes à partir d'une icosphère subdivisée et de bruit procédural \n- Création d'une UI pour permettre de créer des planètes paramétrables, visualiser leurs déplacements puis de simuler leurs trajectoires",
             "links": [
                 
             ],
