@@ -1,14 +1,14 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
+            "title": "Ingénieur·e software",
             "subtitle": "eCential Robotics",
             "workType": "CDI",
             "workDescription": [
                 "Refonte du système de rendu OpenGL",
                 "Développement de nouvelles fonctionalités dans l'interface utilisateur"
             ],
-            "dateText": "02/2024 – Present"
+            "dateText": "2024 – Present"
         },
         {
             "title": "Stagiaire chercheur·euse",
@@ -16,8 +16,9 @@
             "workType": "Stage",
             "workDescription": [
                 "Modélisation d'arbres volumiques en 3D",
-                "Modification d'un système de croissance d'arbres procéduraux pour un rendu utilisant de surfaces implicites"            ],
-            "dateText": "02/2023 – 07/2023"
+                "Modification d'un système de croissance d'arbres procéduraux pour un rendu 3D volumique utilisant des surfaces implicites"            
+            ],
+            "dateText": "2023 – 2023"
         },
         {
             "title": "Développeur·euse web",
@@ -25,9 +26,9 @@
             "workType": "CDI",
             "workDescription": [
                 "Développement et maintenance évolutive d'applications web",
-                "Stage, puis embauche en CDI de septembre 2019 à juillet 2020"
+                "Stage, puis embauche en CDI de 2019 à 2020"
             ],
-            "dateText": "05/2019 – 07/2020"
+            "dateText": "2019 – 2020"
         }
     ]
 }
