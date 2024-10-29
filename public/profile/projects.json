@@ -19,7 +19,7 @@
         {
             "image" : "images/projects/sproutEngine.png",
             "title": "SproutEngine",
-            "bodyText": "- Développement d'un moteur de rendu OpenGL\n- Shadowmapping, postprocessing\n- Portage d'un projet de génération de terrains sur le moteur\n- En cours de développement",
+            "bodyText": "- Développement d'un moteur de rendu OpenGL\n- Shadowmapping, postprocessing\n- Portage d'un projet de génération de terrains sur le moteur\n- Outils de rendu par lancer de rayon (CPU, compute shaders, BVH) \n- Moteur physique basique\n- En cours de développement",
             "links": [
                 {
                     "text": "GitHub",
