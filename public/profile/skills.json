@@ -2,9 +2,8 @@
     "intro": "Au cours de mon parcours de développeur·euse, j'ai acquis des compétences dans une multitude de technologies en rapport avec l'informatique graphique et le développement de jeu, mais aussi plus générales.",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Languages",
             "items" : [
-     
                 {
                     "icon": "images/skills/c-plus-plus.svg",
                     "title": "C/C++ 11"

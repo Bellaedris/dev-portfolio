@@ -1,9 +1,24 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/voxels.gif",
+            "title": "Génération de terrain voxelisé",
+            "bodyText": "- Voxelisation de surfaces implicites pour créer un terrain infini.\n - Quadtree et voxelisation adaptative, sur un seul coeur CPU.\n - Opérateurs de mélange, bruit procédural, notion de potentiel.\n- Projet incluant plusieurs tests de concepts de géométrie: triangulations de formes, simplification de maillages, lecture et écriture de fichiers 3D.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bellaedris/ModGeom"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#"
+            ]
+        },
+        {
             "image" : "images/projects/vagues.jpg",
             "title": "Simulation de vagues",
-            "bodyText": "- Génération de vagues en utilisant une somme de sinus et du FbM\n- Simulation temps réel quasi intégralement sur GPU\n- Simulation de vagues réalistes en utilisant une FFT (WIP)",
+            "bodyText": "- Génération de vagues en utilisant une somme de sinus et du FbM\n- Simulation temps réel sur GPU\n- Simulation de vagues réalistes en utilisant une FFT (WIP)",
             "links": [
                 {
                     "text": "GitHub",
@@ -19,7 +34,7 @@
         {
             "image" : "images/projects/sproutEngine.png",
             "title": "SproutEngine",
-            "bodyText": "- Développement d'un moteur de rendu OpenGL\n- Shadowmapping, postprocessing\n- Portage d'un projet de génération de terrains sur le moteur\n- Outils de rendu par lancer de rayon (CPU, compute shaders, BVH) \n- Moteur physique basique\n- En cours de développement",
+            "bodyText": "- Développement d'un moteur de rendu OpenGL\n- Shadowmapping, postprocessing\n- Portage d'un projet de génération de terrains sur le moteur\n- Outils de rendu par lancer de rayon (CPU, compute shaders) \n- Moteur physique basique\n- En cours de développement",
             "links": [
                 {
                     "text": "GitHub",
