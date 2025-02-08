@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/sproutEngineEditor.jpg",
+            "image" : "images/projects/SproutEngineEditor.jpg",
             "title": "SproutEngine",
             "bodyText": "- Development of an OpenGL rendering engine\n- Model loading, Shadowmapping, postprocessing\n- Adaptation of a terrain generation project for the engine\n- Tools for raytraced rendering pipeline (CPU and GPU) \n- Basic Physics Engine\n- Ongoing development",
             "links": [
