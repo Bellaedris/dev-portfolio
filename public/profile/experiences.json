@@ -1,32 +1,34 @@
 {
     "experiences": [
         {
-            "title": "Ingénieur·e software",
+            "title": "Software engineer",
             "subtitle": "eCential Robotics",
             "workType": "CDI",
             "workDescription": [
-                "Refonte du système de rendu OpenGL",
-                "Développement de nouvelles fonctionalités dans l'interface utilisateur"
+                "Development of medical software for real time volumetric navigation, in a team of experienced doctors and engineers.",
+                "Modernisation of the software’s rendering engine, using openGL 4.6.",
+                "Software developed C++ / Qt, built with CMake. Versioning with Git and a Jenkins CI/CD.",
+                "Lifecycle in V, following the 62304 norm."
             ],
-            "dateText": "2024 – Present"
+            "dateText": "2024"
         },
         {
             "title": "Stagiaire chercheur·euse",
             "subtitle": "Laboratoire LIRIS",
             "workType": "Stage",
             "workDescription": [
-                "Modélisation d'arbres volumiques en 3D",
-                "Modification d'un système de croissance d'arbres procéduraux pour un rendu 3D volumique utilisant des surfaces implicites"            
+                "Research of algorithms to improve the realism of a simulation of tree growth.",
+                "Development in C++, Qt and Visual Studio",
+                "3D volumic rendering with OpenGL, using implicit surfaces."
             ],
-            "dateText": "2023 – 2023"
+            "dateText": "2023"
         },
         {
             "title": "Développeur·euse web",
             "subtitle": "BeProject",
             "workType": "CDI",
             "workDescription": [
-                "Développement et maintenance évolutive d'applications web",
-                "Stage, puis embauche en CDI de 2019 à 2020"
+                "Development and maintenance of web applications (Laravel, VueJS, Wordpress) for local companies."
             ],
             "dateText": "2019 – 2020"
         }

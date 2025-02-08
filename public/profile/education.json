@@ -2,25 +2,25 @@
     "education":[
         {
             "title": "2024-2025",
-            "cardTitle": "Master informatique",
+            "cardTitle": "Master's degree in computer sciences",
             "cardSubtitle":"ICOM - Université Lumière Lyon 2",
-            "cardDetailedText": "Ingénierie du jeu vidéo - GAMAGORA",
+            "cardDetailedText": "Video game ingeneering - GAMAGORA",
             "icon" : {
                 "src": "images/education/lyon2.png"
             }
         },
         {
             "title": "2021-2023",
-            "cardTitle": "Master informatique",
+            "cardTitle": "Master's degree in computer sciences",
             "cardSubtitle":"Université Claude Bernard Lyon 1",
-            "cardDetailedText": "Spécialité Image Développement et Technologie 3D (ID3D)",
+            "cardDetailedText": "Image, development and 3D technologies (ID3D)",
             "icon" : {
                 "src": "images/education/UCBL.png"
             }
         },
         {
             "title": "2020-2021",
-            "cardTitle": "L3 informatique",
+            "cardTitle": "Bachelor's degree in computer sciences",
             "cardSubtitle":"Université Claude Bernard Lyon 1",
             "cardDetailedText": "",
             "icon" : {
@@ -29,7 +29,7 @@
         },
         {
             "title": "2020-2021",
-            "cardTitle": "Licence Professionelle Métiers du Numérique",
+            "cardTitle": "Bachelor's degree in web and multimedia",
             "cardSubtitle":"IUT de Bayonne et du Pays Basque",
             "cardDetailedText": "",
             "icon" : {
@@ -38,7 +38,7 @@
         },
         {
             "title": "2016-2018",
-            "cardTitle": "DUT Informatique",
+            "cardTitle": "Associat's degree in computer sciences",
             "cardSubtitle":"IUT de Rodez",
             "cardDetailedText": "",
             "icon" : {

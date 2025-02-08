@@ -6,31 +6,31 @@
     },
     "sections": [
         {
-            "title": "Accueil",
+            "title": "Home",
             "href": "/"
         },
         {
-            "title": "Moi",
+            "title": "About",
             "href": "/about"
         },
         {
-            "title": "Compétences",
+            "title": "Skills",
             "href": "/skills"
         },
         {
-            "title": "Études",
+            "title": "Education",
             "href": "/education"
         },
         {
-            "title": "Expérience",
+            "title": "Experience",
             "href": "/experience"
         },
         {
-            "title": "Projets",
+            "title": "Projects",
             "href": "/projects"
         },
         {
-            "title": "CV",
+            "title": "Resume",
             "href": "../CV_3D_generalist___nbV2_ENG.pdf",
             "type": "link"
         }

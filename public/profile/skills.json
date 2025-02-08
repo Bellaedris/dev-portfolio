@@ -1,20 +1,16 @@
 {
-    "intro": "Au cours de mon parcours de développeur·euse, j'ai acquis des compétences dans une multitude de technologies en rapport avec l'informatique graphique et le développement de jeu, mais aussi plus générales.",
+    "intro": "During my journey as a graphics programmer, i learned to use a few languages and tools for video game development, but not only.",
     "skills": [{
      
             "title": "Languages",
             "items" : [
                 {
                     "icon": "images/skills/c-plus-plus.svg",
-                    "title": "C/C++ 11"
+                    "title": "C++ 11"
                 },
                 {
                     "icon": "images/skills/c-sharp-c.svg",
                     "title": "C#"
-                },
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
                 }
         ]},
         {
@@ -27,6 +23,10 @@
                 {
                     "icon": "images/skills/Unity.png",
                     "title": "Unity"
+                },
+                {
+                    "icon": "images/skills/Qt.png",
+                    "title": "Qt"
                 }
             ]
         },

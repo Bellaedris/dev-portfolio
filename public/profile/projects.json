@@ -1,9 +1,9 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/sproutEngine.png",
+            "image" : "images/projects/sproutEngineEditor.jpg",
             "title": "SproutEngine",
-            "bodyText": "- Développement d'un moteur de rendu OpenGL\n- Shadowmapping, postprocessing\n- Portage d'un projet de génération de terrains sur le moteur\n- Outils de rendu par lancer de rayon (CPU, compute shaders) \n- Moteur physique basique\n- En cours de développement",
+            "bodyText": "- Development of an OpenGL rendering engine\n- Model loading, Shadowmapping, postprocessing\n- Adaptation of a terrain generation project for the engine\n- Tools for raytraced rendering pipeline (CPU and GPU) \n- Basic Physics Engine\n- Ongoing development",
             "links": [
                 {
                     "text": "GitHub",
@@ -17,9 +17,24 @@
             ]
         },
         {
-            "image" : "images/projects/USDVSTW.png",
+            "image" : "images/projects/water erosion.jpg",
+            "title": "Terrain generation and erosion",
+            "bodyText": "- Development of a terrain generation tools used by the other students to complete their part of the assignment.\n- Implementation of a water erosion algorithm on a single CPU core.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/CorentinGaut/GAMAGORA-Virtual-World-project"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/usdvstw.gif",
             "title": "Utimate Star Destroyer vs The World",
-            "bodyText": "- Jeu vidéo réalisé en quelques dizaines d'heures.\n- Shoot'em up inspiré des classiques du genre.\n - Shaders, système d'armes améliorables, 3C, intégration audio",
+            "bodyText": "- Video game developed in a few hours.\n- Shoot'em up inspired by the classics of the gender.\n - Shaders, upgradable weapon system, 3C, audio integration",
             "links": [
                 {
                     "text": "itch.io",
@@ -33,8 +48,8 @@
         },
         {
             "image" : "images/projects/voxels.gif",
-            "title": "Génération de terrain voxelisé",
-            "bodyText": "- Voxelisation de surfaces implicites pour créer un terrain infini.\n - Quadtree et voxelisation adaptative, sur un seul coeur CPU.\n - Opérateurs de mélange, bruit procédural, notion de potentiel.\n- Projet incluant plusieurs tests de concepts de géométrie: triangulations de formes, simplification de maillages, lecture et écriture de fichiers 3D.",
+            "title": "Voxel-based terrain generation",
+            "bodyText": "- Voxelisation of an implicit-based terrain. \n - Quadtree and adaptative voxelization, on a single CPU core.\n - fusion operators, procedural noise, notion of \"potential\" for the voxels.\n- Project including a bit of work on a few geometry concepts: generation of triangle mesh, mesh I/O, mesh simplification, parametric curves.",
             "links": [
                 {
                     "text": "GitHub",
@@ -48,8 +63,8 @@
         },
         {
             "image" : "images/projects/vagues.jpg",
-            "title": "Simulation de vagues",
-            "bodyText": "- Génération de vagues en utilisant une somme de sinus et du FbM\n- Simulation temps réel sur GPU\n- Simulation de vagues réalistes en utilisant une FFT (WIP)",
+            "title": "Ocean simulation",
+            "bodyText": "- Wave generation using a sum of sine and FbM\n- Realtime GPU simulation",
             "links": [
                 {
                     "text": "GitHub",
@@ -65,7 +80,7 @@
         {
             "image" : "images/projects/soup.jpg",
             "title": "Soup",
-            "bodyText": "- Création d'un jeu en équipe de 5 étudiants\n- Création du concept original\n- Travail sur les graphismes et les visuels (Shaders/modifications sur le pipeline de rendu)\n- Développement de fonctionnalités de gameplay et intégration d'assets",
+            "bodyText": "- Creation of a game in a team of 5 students\n- Creation of the original concept\n- Work on the game's graphics (shaders, rendering pipeline modifications)\n- Gameplay functionalities development and assets integration",
             "links": [
             ],
             "tags" : [
@@ -76,8 +91,8 @@
         },
         {
             "image" : "images/projects/raytraceAO.png",
-            "title": "Rendu de scène 3D",
-            "bodyText": "- Rendu de scènes 3D pour mon master ID3D, en utilisant de la rasterisation et du ray tracing.\n- Lecture de fichiers gltf\n- Instanciation GPU\n- Compute shaders\n- Shadow mapping\n- Lancer de rayons avec méthode de Monte Carlo",
+            "title": "3D scenes rendering",
+            "bodyText": "- 3D scenes rendering using rasterization and raytracing during my ID3D master's degree, using the engine Gkit2light.\n- GlTF file reading\n- GPU instanciation\n- Compute shaders\n- Shadow mapping\n- Monte Carlo path tracing",
             "links": [
             ],
             "tags" : [
@@ -89,8 +104,8 @@
         },
         {
             "image" : "images/projects/terrain_erodé.png",
-            "title": "Générateur de terrains réalistes",
-            "bodyText": "- Génération de mondes virtuels à partir de bruit procédural\n- Export de données sur le terrain: pente, humidité, laplacien, etc\n- Érosion fluviale et tectonique (https://inria.hal.science/hal-01262376/document)\n- Placement procédural de villages sur le terrain\n- Génération de routes entre les villes",
+            "title": "Terrain generator",
+            "bodyText": "- Generation of virtual worlds through procedural noise \n- Terrain data export: slope, wetness, laplacian...\n- Tectonic erosion (https://inria.hal.science/hal-01262376/document)\n- Procedural placement of villages through a maximisation of a score\n- Generation of roads between the villages",
             "links": [
                 {
                     "text": "GitHub",
@@ -106,8 +121,8 @@
         },
         {
             "image" : "images/projects/Sand3D2.png",
-            "title": "Simulation de reliefs côtiers",
-            "bodyText": "- Génération de terrains sur Unity à partir de bruit procédural\n- Générations d'îlots\n- Simulation du développement organique de coraux à l'aide d'un algorithme de DLA\n- Dépôts de sables sur les côtes d'une île à l'aide de courants",
+            "title": "Coastal erosion simulation",
+            "bodyText": "- Generation of procedural terrains in Unity\n- Island generation\n- Simulation of the growth of corals thanks to a DLA algorithm\n- Simulation of the sand deposit on a coastline through water movements",
             "links": [
                 {
                     "text": "GitHub",
@@ -123,7 +138,7 @@
         {
             "image" : "images/projects/Floward.png",
             "title": "Floward - Scientific Game Jam 2021",
-            "bodyText": "Développement d'un jeu vidéo sur une thématique scientifique sur un weekend\n- participation au game design\n- Développement de fonctionnalités de gameplay et intégration d'assets",
+            "bodyText": "Development of a video game on a scientific subject during a weekend\n- Participation to the game design\n- Development of gameplay elements and assets integration",
             "links": [
                 {
                     "text": "itch.io",
@@ -137,8 +152,8 @@
         },
         {
             "image" : "images/projects/planetes.png",
-            "title": "Simulation de gravitation",
-            "bodyText": "- Simulation du phénomène de gravitation en implémentant la loi de Newton\n- Génération procédurale d'astéroïdes à partir d'une icosphère subdivisée et de bruit procédural \n- Création d'une UI pour permettre de créer des planètes paramétrables, visualiser leurs déplacements puis de simuler leurs trajectoires",
+            "title": "Gravitation simulation",
+            "bodyText": "- Simulation of the gravitation phenomenon by implementing Newton's law\n- Procedural generation of asteroids using a subdivided icosphere and procedural noise \n- Creation of an UI to allow the creation of cusomizable planets, visualize their movements and simulate their trajectories",
             "links": [
                 
             ],
