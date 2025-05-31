@@ -22,9 +22,9 @@
             "dateText": "2024"
         },
         {
-            "title": "Stagiaire chercheur·euse",
-            "subtitle": "Laboratoire LIRIS",
-            "workType": "Stage",
+            "title": "Research intern",
+            "subtitle": "LIRIS Laboratory",
+            "workType": "Internship",
             "workDescription": [
                 "Research of algorithms to improve the realism of a simulation of tree growth.",
                 "Development in C++, Qt and Visual Studio",
@@ -33,7 +33,7 @@
             "dateText": "2023"
         },
         {
-            "title": "Développeur·euse web",
+            "title": "Web developer",
             "subtitle": "BeProject",
             "workType": "CDI",
             "workDescription": [
