@@ -1,6 +1,15 @@
 {
     "experiences": [
         {
+            "title": "Physics Programmer",
+            "subtitle": "Eden Games",
+            "workType": "Internship",
+            "workDescription": [
+                "Development of new functionnalities on the physics engine, using Unity DOTS"
+            ],
+            "dateText": "2025"
+        },
+        {
             "title": "Software engineer",
             "subtitle": "eCential Robotics",
             "workType": "CDI",
