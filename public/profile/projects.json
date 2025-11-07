@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/SproutEngineEditor.jpg",
             "title": "SproutEngine",
-            "bodyText": "- Development of an OpenGL rendering engine\n- Model loading, Shadowmapping, postprocessing, PBR rendering\n- Adaptation of a terrain generation project for the engine\n- Tools for raytraced rendering pipeline (CPU and GPU) \n- Basic Physics Engine\n- Ongoing development",
+            "bodyText": "- Development of an OpenGL rendering engine\n- Model loading, Shadowmapping, postprocessing, PBR rendering\n- Adaptation of a terrain generation project for the engine \n- Basic Physics Engine\n- Ongoing development",
             "links": [
                 {
                     "text": "GitHub",
@@ -17,6 +17,23 @@
             ]
         },
         {
+            "image" : "images/projects/raytrace.jpg",
+            "title": "Raytracer",
+            "bodyText": "- Development of a raytracer integrated to my engine\n- Handles both CPU and GPU rendering\n- The raster part of the engine allows for easy scene setup and dynamic view \n- Monte-Carlo path tracing, with multiple sampling strategies \n- TLAS and BLAS generation and display",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bellaedris/SproutEngine"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "OpenGL",
+                "GLSL",
+                "Compute" 
+            ]
+        },
+        {
             "image" : "images/projects/water erosion.jpg",
             "title": "Terrain generation and erosion",
             "bodyText": "- Development of a terrain generation tools used by the other students to complete their part of the assignment.\n- Implementation of a water erosion algorithm on a single CPU core.",
@@ -24,6 +41,21 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/CorentinGaut/GAMAGORA-Virtual-World-project"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/boids.png",
+            "title": "Audio-reactive boids",
+            "bodyText": "- GPU-based boids algorithm. \n- Reaction to collisions. \n- Integrated an audio spectrum alalyzing plugin to change the behaviour of the boids depending on the sound played on an audio output.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bellaedris/IA"
                 }
             ],
             "tags" : [

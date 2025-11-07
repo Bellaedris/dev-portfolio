@@ -1,11 +1,20 @@
 {
     "experiences": [
         {
+            "title": "Teacher associate",
+            "subtitle": "Lyon 2 university",
+            "workType": "Temporary contract",
+            "workDescription": [
+                "Tutoring students during lab work on 3D image synthesis. C++ CPU Raytracer, OpenGL real time rendering."
+            ],
+            "dateText": "2025"
+        },
+        {
             "title": "Physics Programmer",
             "subtitle": "Eden Games",
             "workType": "Internship",
             "workDescription": [
-                "Development of new functionnalities on the physics engine, using Unity DOTS"
+                "Tools development for the generation and physics simulation of breakable objects, using \textbf{Unity DOTS}, as part of the physics team for the game Gear.Club Unlimited 3."
             ],
             "dateText": "2025"
         },
