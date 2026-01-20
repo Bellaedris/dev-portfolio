@@ -1,6 +1,22 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/Lumiere.png",
+            "title": "Lumiere",
+            "bodyText": "- Development of a game engine as part of the Develop at Ubisoft program. \n- Development in 6 months, from January to May, while mentored by a Ubisoft Ivory Tower developer\n- Emphasis on improving my project management, conception and communication skills.\n- Used to create a game editor and the prototype of a photography game\n- Still in progress!",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Bellaedris/Lumiere"
+                }
+            ],
+            "tags" : [
+                "C++",
+                "OpenGL",
+                "GLSL"            
+            ]
+        },
+        {
             "image" : "images/projects/SproutEngineEditor.jpg",
             "title": "SproutEngine",
             "bodyText": "- Development of an OpenGL rendering engine\n- Model loading, Shadowmapping, postprocessing, PBR rendering\n- Adaptation of a terrain generation project for the engine \n- Basic Physics Engine\n- Ongoing development",
